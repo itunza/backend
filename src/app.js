@@ -110,5 +110,4 @@ app.post("/Verify.php", function (req, res, next) {
     }
   }).pipe(res);
 });
-q 
 module.exports = app;
