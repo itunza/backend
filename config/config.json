@@ -1,0 +1,25 @@
+{"development": {
+    "username": "absa_app",
+    "password": "VxY7nZGzHWQRgKJJ",
+    "database": "absa_prod",
+    "host": "40.112.49.201",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "absa_app",
+    "password": "VxY7nZGzHWQRgKJJ",
+    "database": "absa_prod",
+    "host": "40.112.49.201",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "absa_app",
+    "password": "VxY7nZGzHWQRgKJJ",
+    "database": "absa_prod",
+    "host": "40.112.49.201",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
